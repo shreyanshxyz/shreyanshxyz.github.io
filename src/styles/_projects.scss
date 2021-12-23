@@ -47,10 +47,16 @@
   @media only screen and (min-width: $cut) {
     float: right;
     width: 48%;
+    -moz-box-shadow: 3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow: 3px 3px 5px 6px #ccc;
   }
   img {
     @media only screen and (min-width: $cut) {
       float: right;
+      -moz-box-shadow: 3px 3px 5px 6px #ccc;
+      -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+      box-shadow: 3px 3px 5px 6px #ccc;
     }
   }
 }
@@ -59,6 +65,9 @@
   @media only screen and (min-width: $cut) {
     float: left;
     width: 48%;
+    -moz-box-shadow: 3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow: 3px 3px 5px 6px #ccc;
   }
   img {
     @media only screen and (min-width: $cut) {
