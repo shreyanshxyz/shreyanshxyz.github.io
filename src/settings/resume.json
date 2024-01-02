@@ -76,13 +76,12 @@
   ],
   "education": [
     {
-      "institution": "University",
-      "area": "Software Development",
+      "institution": "Institute of Technology & Management, Gwalior",
+      "area": "Computer Science Engineering",
       "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "gpa": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "startDate": "2019-08-17",
+      "endDate": "2023-07-18",
+      "gpa": "8.11"
     }
   ],
   "awards": [
@@ -111,16 +110,12 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Hindi",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent speaker"
-    },
-    {
-      "language": "French",
-      "fluency": "Good knowledge"
+      "fluency": "Native speaker"
     }
   ],
   "interests": [
