@@ -6,7 +6,7 @@
     "phone": "(XXX) XXX-XXXX",
     "picture": "jl.png",
     "x_title": "Hey, I'm",
-    "job": "CS grad",
+    "job": "CS graduate",
     "description": "Hey, I'm Shreyansh Bhadoria, a recent Computer Science grad, based in India. I love all things technical. Talk soon!",
     "summary": "based in India.",
     "keywords": "personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
@@ -45,10 +45,10 @@
         "x_icon": "fa fa-code"
       },
       {
-        "network": "Twitter",
-        "username": "shreyanshxyz",
-        "url": "https://www.twitter.com/shreyanshxyz",
-        "x_icon": "fab fa-twitter"
+        "network": "Resume",
+        "username": "Resume",
+        "url": "https://drive.google.com/file/d/1gC3NDmlIMQJ0dKTmWlsJ8PiY3zdKKxxZ/view?usp=sharing",
+        "x_icon": "fab fa-wpforms"
       }
     ]
   },
@@ -105,7 +105,17 @@
     {
       "name": "Web Development",
       "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript"]
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "MongoDB",
+        "Express",
+        "Node",
+        "NextJS",
+        "TypeScript"
+      ]
     }
   ],
   "languages": [

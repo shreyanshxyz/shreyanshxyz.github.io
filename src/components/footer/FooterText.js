@@ -31,9 +31,9 @@ export const FooterText = () => {
       rel="noopener noreferrer"
       className={classes.footerText}
     >
-      <HeartIcon />
+      📄
       <Typography variant="body1">
-        <TextDecrypt text={"->  Resume"} />
+        <TextDecrypt text={"- Resume"} />
       </Typography>
     </Link>
   );
