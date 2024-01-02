@@ -2,7 +2,6 @@ import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import { Typography, Link } from "@material-ui/core";
 import { TextDecrypt } from "../content/TextDecrypt";
-import { HeartIcon } from "../content/SponsorButton";
 
 const useStyles = makeStyles((theme) => ({
   footerText: {
